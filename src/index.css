@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(225, 233, 236) !important;
+  font-family: sans-serif;
+}
+
+input.txt-dark {
+  margin-top: 10px;
+  margin-right: 10px;
+}
